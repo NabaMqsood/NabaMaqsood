@@ -9,18 +9,13 @@ Aspiring SOC Analyst with hands-on experience in SIEM tools, threat detection, a
 - Incident Response
 - Phishing Analysis
 
-## 🚀 Projects
+## 🔹 Projects
 🔗 Cybersecurity Portfolio  
-https://github.com/NabaMqsood/Cybersecurity-Portfolio
-
-## 📌 Highlights
-- Simulated brute-force attack detection using SIEM tools
-- Performed phishing email investigation with IOC extraction
-- Built detection queries using KQL and SPL
+https://github.com/NabaMaqsood/Cybersecurity-Portfolio
 
 ## 🔹 Focus
-Currently building real-world SOC analyst skills and actively seeking entry-level cybersecurity opportunities.
+Currently building real-world SOC analyst skills and actively seeking entry-level cybersecurity roles.
 
 ## 🔹 Contact
 - LinkedIn:https://www.linkedin.com/in/nabamqsood/
-- Email: nabamaqsood2@gmail.com
+- Email: nabamqsood2@gmail.com
