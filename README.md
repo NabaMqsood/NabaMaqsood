@@ -1,4 +1,4 @@
-# Hi, I'm Naba 👋
+# Hi, I'm Naba
 
 Aspiring SOC Analyst with hands-on experience in SIEM tools, threat detection, and incident analysis.
 
@@ -8,9 +8,17 @@ Aspiring SOC Analyst with hands-on experience in SIEM tools, threat detection, a
 - KQL & SPL Query Writing
 - Incident Response
 - Phishing Analysis
+  
+## 🔹 Tools
+- Microsoft Sentinel
+- Splunk
+- VirusTotal
+- MXToolbox
+- URLScan.io
 
 ## 🔹 Projects
-🔗 Cybersecurity Portfolio  
+🔗 Cybersecurity Portfolio – SIEM & Threat Detection Projects
+- Detected simulated brute-force attacks using SIEM tools and analyzed failed login patterns
 https://github.com/NabaMaqsood/Cybersecurity-Portfolio
 
 ## 🔹 Focus
